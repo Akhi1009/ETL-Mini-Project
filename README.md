@@ -26,3 +26,7 @@ Run queries on the database table. Write a function load_to_db(), execute a give
 
 Task 7:
 Verify that the log entries have been completed at all stages by checking the contents of the file code_log.txt
+
+# Required Links :
+Data URL	https://web.archive.org/web/20230908091635 /https://en.wikipedia.org/wiki/List_of_largest_banks
+Exchange rate CSV path	https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/exchange_rate.csv
